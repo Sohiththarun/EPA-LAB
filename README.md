@@ -1,1 +1,1 @@
-# EPA-LAB
+# Embedded Processor Architecture
